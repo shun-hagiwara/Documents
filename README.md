@@ -63,7 +63,7 @@
 
 
 ```
-入力フォーム送信語
+入力フォーム送信後
 ```
 >送信後、編集が完了します。
 <img width="400" alt="スクリーンショット 2023-10-08 18 53 01" src="https://github.com/shun-hagiwara/Documents/assets/147070848/25d64339-e1b4-4f04-a0e4-6897e5d5b6d3">
