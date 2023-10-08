@@ -1,4 +1,4 @@
-<h1>WEB掲示板</h1>
+<h1>SQLと連動したWEB掲示板</h1>
 <p align="left">
   <img width="400" src="https://github.com/shun-hagiwara/Documents/assets/147070848/a4d2e621-f0fa-49d0-825b-a836744bec5a" />
 </p>
