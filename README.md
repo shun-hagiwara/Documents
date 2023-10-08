@@ -1,4 +1,8 @@
 <h1>SQLと連動したWEB掲示板</h1>
+
+>"名前"と"コメント"を打ち込むことができる掲示板です。
+>この掲示板には、"投稿機能""削除機能""編集機能"の3つの機能があります。
+
 <p align="left">
   <img width="400" src=https://github.com/shun-hagiwara/Documents/assets/147070848/a176b57d-1943-4b78-b5d3-7b063145fd65" />
 </p>
@@ -17,7 +21,7 @@
 ```
 投稿後
 ```
-> 名前、コメント、パスワードを送信すると、　最新投稿の次の投稿として追加されます。
+>名前、コメント、パスワードを送信すると、　最新投稿の次の投稿として追加されます。
 
 <p align="left">
 <img width="400"  src="https://github.com/shun-hagiwara/Documents/assets/147070848/338ec68d-51e7-4d52-a6c1-24627c5b6631](https://github.com/shun-hagiwara/Documents/assets/147070848/338ec68d-51e7-4d52-a6c1-24627c5b6631"/>
@@ -56,6 +60,7 @@
 ```
 >今回は"名前"は変更せず、"コメント"を"午前中は休みです"に書き換えます。
 <img width="400" alt="スクリーンショット 2023-10-08 18 52 52" src="https://github.com/shun-hagiwara/Documents/assets/147070848/2c1ebed5-83b0-4308-ba4f-073709419c78">
+
 
 ```
 入力フォーム送信語
